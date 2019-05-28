@@ -256,6 +256,10 @@ module.exports = {
     minHeight: {
       '0': '0',
       full: '100%',
+      '20': '20vh',
+      '40': '40vh',
+      '60': '60vh',
+      '80': '80vh',
       screen: '100vh',
     },
     maxWidth: {

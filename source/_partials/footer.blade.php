@@ -1,4 +1,5 @@
- <ul class="mt-12 text-lg flex">
+<footer class="flex flex-row justify-between items-baseline mt-24 mb-6">
+    <ul class="text-lg flex text-primary-500">
         <li class="mr-4">
             <ion-icon class="-mb-1 text-2xl" name="logo-linkedin"></ion-icon>
             <a class="hover:underline" href="https://www.linkedin.com/in/alexander-g-powell/" target="_blank">LinkedIn</a>
@@ -8,5 +9,5 @@
             <a class="hover:underline" href="https://github.com/theblindfrog" target="_blank">Github</a>
         </li>
     </ul>
-
-    &copy; Alexander Powell
+    <p class="text-sm text-gray-500">&copy; {{ date('Y') }} Alexander Powell</p>
+</footer>
