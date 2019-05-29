@@ -3,3 +3,9 @@
 command = "npm run production"
 publish = "build_production"
 environment = { PHP_VERSION = "7.2" }
+
+# SEO redirect
+[[redirects]]
+  from = "https://alexanderpowell.netlify.com/*"
+  to = "https://www.alexanderpowell.me/:splat"
+  status = "301"
