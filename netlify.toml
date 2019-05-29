@@ -8,4 +8,4 @@ environment = { PHP_VERSION = "7.2" }
 [[redirects]]
   from = "https://alexanderpowell.netlify.com/*"
   to = "https://www.alexanderpowell.me/:splat"
-  status = "301"
+  status = 301
