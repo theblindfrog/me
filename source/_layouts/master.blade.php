@@ -11,7 +11,7 @@
         @stack('head')
     </head>
     <body class="bg-primary-100 border-primary-500 border-t-8 font-sans antialiased">
-        <div class="container mx-auto mt-32">
+        <div class="container mx-auto mt-12 sm:mt-16 md:mt-32">
              
             @include('_partials.header')
             

@@ -9,12 +9,12 @@
 
         <ol>
             <li class="mb-12">
-                <h3 class="mb-6 flex justify-between items-baseline">
+                <h3 class="mb-6 leading-none flex justify-between items-baseline">
                     <span class="text-2xl tracking-tight font-400 font-serif">Click Energy</span>
                     <small class="uppercase text-sm tracking-copperplate text-gray-600">2013 &mdash; Present</small>
                 </h3>
 
-                <h4 class="mb-4 uppercase tracking-wide font-700 text-gray-700"><ion-icon class="text-lg -mb-1 mr-2 -ml-6" name="checkmark-circle-outline"></ion-icon>Key Accomplishments</h4>
+                <h4 class="mb-4 uppercase tracking-wide font-700 text-gray-700"><ion-icon class="text-lg -mb-1 mr-2 sm:-ml-6" name="checkmark-circle-outline"></ion-icon>Key Accomplishments</h4>
                 <ol class="mb-8">
                     <li class="mb-4">
                         <h3 class="mb-2 flex justify-between items-baseline">
@@ -85,7 +85,7 @@
                     
                 </ol>
 
-                <h4 class="mb-4 uppercase tracking-wide font-700 text-gray-700"><ion-icon class="text-lg -mb-1 mr-2 -ml-6" name="ribbon"></ion-icon>Awards</h4>
+                <h4 class="mb-4 uppercase tracking-wide font-700 text-gray-700"><ion-icon class="text-lg -mb-1 mr-2 sm:-ml-6" name="ribbon"></ion-icon>Awards</h4>
                 <dl class="mb-8">
                     <dt class="text-lg flex justify-between items-baseline">
                         <span>Outside the Box Thinker Award</span>
@@ -105,12 +105,12 @@
                 </dl>
             </li>
             <li class="mb-12">
-                <h3 class="mb-6 flex justify-between items-baseline">
-                    <span class="text-2xl tracking-tight font-400 font-serif">Natvia</span>
+                <h3 class="mb-6 leading-none flex justify-between items-baseline">
+                    <span class="text-2xl  tracking-tight font-400 font-serif">Natvia</span>
                     <small class="uppercase text-sm tracking-copperplate text-gray-600">2012 &mdash; 2013</small>
                 </h3>
 
-                <h4 class="mb-4 uppercase tracking-wide font-700 text-gray-700"><ion-icon class="text-lg -mb-1 mr-2 -ml-6" name="checkmark-circle-outline"></ion-icon>Key Accomplishments</h4>
+                <h4 class="mb-4 uppercase tracking-wide font-700 text-gray-700"><ion-icon class="text-lg -mb-1 mr-2 sm:-ml-6" name="checkmark-circle-outline"></ion-icon>Key Accomplishments</h4>
                 <ol class="mb-8">
                     <li class="mb-4">
                         <h3 class="mb-2 flex justify-between items-baseline">

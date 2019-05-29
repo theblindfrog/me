@@ -52,6 +52,7 @@ module.exports = {
       '8': '2rem',
       '10': '2.5rem',
       '12': '3rem',
+      '14': '3.5rem',
       '16': '4rem',
       '20': '5rem',
       '24': '6rem',
@@ -68,7 +69,8 @@ module.exports = {
       'golden-1/6': '14.5893%',
     },
     screens: {
-      sm: '4800px',
+      xs: '320px',
+      sm: '480px',
       md: '640px',
       lg: '920px',
       xl: '1120px',
