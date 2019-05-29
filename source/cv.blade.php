@@ -4,8 +4,8 @@
 
 
 
-    <section class="mb-16">
-        <h2 class="mb-4 text-3xl font-500 font-serif">Experience</h2>
+    <section class="mb-16 mt-8">
+        <h2 class="mb-6 text-3xl font-500 font-serif tracking-tight">Experience</h2>
 
         <ol>
             <li class="mb-12">
@@ -14,7 +14,7 @@
                     <small class="uppercase text-sm tracking-copperplate text-gray-600">2013 &mdash; Present</small>
                 </h3>
 
-                <h4 class="mb-4 uppercase tracking-wide font-700 text-gray-700">Key Accomplishments</h4>
+                <h4 class="mb-4 uppercase tracking-wide font-700 text-gray-700"><ion-icon class="text-lg -mb-1 mr-2 -ml-6" name="checkmark-circle-outline"></ion-icon>Key Accomplishments</h4>
                 <ol class="mb-8">
                     <li class="mb-4">
                         <h3 class="mb-2 flex justify-between items-baseline">
@@ -85,7 +85,7 @@
                     
                 </ol>
 
-                <h4 class="mb-4 uppercase tracking-wide font-700 text-gray-700"><ion-icon name="ribbon"></ion-icon> Awards</h4>
+                <h4 class="mb-4 uppercase tracking-wide font-700 text-gray-700"><ion-icon class="text-lg -mb-1 mr-2 -ml-6" name="ribbon"></ion-icon>Awards</h4>
                 <dl class="mb-8">
                     <dt class="text-lg flex justify-between items-baseline">
                         <span>Outside the Box Thinker Award</span>
@@ -110,7 +110,7 @@
                     <small class="uppercase text-sm tracking-copperplate text-gray-600">2012 &mdash; 2013</small>
                 </h3>
 
-                <h4 class="mb-4 uppercase tracking-wide font-700 text-gray-700">Key Accomplishments</h4>
+                <h4 class="mb-4 uppercase tracking-wide font-700 text-gray-700"><ion-icon class="text-lg -mb-1 mr-2 -ml-6" name="checkmark-circle-outline"></ion-icon>Key Accomplishments</h4>
                 <ol class="mb-8">
                     <li class="mb-4">
                         <h3 class="mb-2 flex justify-between items-baseline">
@@ -138,7 +138,7 @@
     </section>
 
     <section class="mb-16">
-        <h2 class="mb-4 text-3xl font-600 font-serif">Education</h2>
+        <h2 class="mb-6 text-3xl font-500 font-serif tracking-tight">Education</h2>
 
         <ol>
             <li class="mb-4">
@@ -172,10 +172,10 @@
     </section>
 
     <section class="mb-16">
-        <h2 class="mb-4 text-3xl font-600 font-serif">Skills</h2>
+        <h2 class="mb-6 text-3xl font-500 font-serif tracking-tight">Skills</h2>
 
         <div class="flex mb-4">
-            <div class="w-1/3">
+            <div class="w-5/12">
                 <h5 class="uppercase mb-2 tracking-wide font-700">Languages</h5>
                 <ul>
                     <li>PHP</li>
@@ -186,7 +186,7 @@
                     <li>APIs <small class="uppercase">(REST, SOAP)</small></li>
                 </ul>
             </div>
-            <div class="w-1/3">
+            <div class="w-5/12">
                 <h5 class="uppercase mb-2 tracking-wide font-700">Frameworks</h5>
                 <ul>
                     <li>Laravel</li>
@@ -200,7 +200,7 @@
         </div>
         
         <div class="flex mb-4">
-            <div class="w-1/3">
+            <div class="w-5/12">
 
                 <h5 class="uppercase mb-2 tracking-wide font-700">Design</h5>
                 <ul>
@@ -209,7 +209,7 @@
                     <li>Logo / Identity</li>
                 </ul>
             </div>
-            <div class="w-1/3">
+            <div class="w-5/12">
         
                 <h5 class="uppercase mb-2 tracking-wide font-700">Commercial</h5>
                 <ul>

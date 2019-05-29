@@ -2,7 +2,8 @@
     <div class="w-golden-1/6 self-start">
         <p class="
             w-12 h-12 -mt-3
-            md:w-20 md:h-20 md:-mt-6
+            md:w-20 md:h-20 md:-mt-6 lg:ml-4
+            xl:ml-12
         ">
             <img src="/assets/img/me.jpg" alt="Photo of Alexander Powell" class="rounded-full border-2 md:border-4 border-gray-100 shadow-lg">
         </p>
