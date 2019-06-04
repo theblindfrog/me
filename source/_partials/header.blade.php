@@ -29,8 +29,8 @@
         md:ml-0
         md:w-golden-2/6
     ">
-        <nav class="list-none m-0 p-0 flex flex-row uppercase font-600 text-gray-700">
-            <ul>
+        <nav class="list-none m-0 p-0 uppercase font-600 text-gray-700">
+            <ul class="flex flex-row">
                 <li class="md:ml-2"><a class="hover:text-blue-700" href="/">About</a></li>
                 <li class="ml-2"><a class="hover:text-blue-700" href="/cv">CV</a></li>
                 {{-- <li><a href="/projects">Projects</a></li> --}}

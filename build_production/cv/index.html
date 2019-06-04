@@ -8,7 +8,7 @@
         <link rel="apple-touch-icon" sizes="180x180" href="/assets/img/apple-touch-icon.png">
         <link rel="icon" type="image/png" sizes="32x32" href="/assets/img/favicon-32x32.png">
         <link rel="icon" type="image/png" sizes="16x16" href="/assets/img/favicon-16x16.png">
-        <link rel="manifest" href="/assets/img/site.webmanifest">
+        <link rel="manifest" href="/assets/site.webmanifest">
         <meta name="msapplication-TileColor" content="#029dce">
         <meta name="theme-color" content="#029dce">
         
@@ -67,10 +67,12 @@
         md:ml-0
         md:w-golden-2/6
     ">
-        <nav class="list-none m-0 p-0 flex flex-row uppercase font-600 text-gray-700 ">
-            <li class="md:ml-2"><a class="hover:text-blue-700" href="/">About</a></li>
-            <li class="ml-2"><a class="hover:text-blue-700" href="/cv">CV</a></li>
-            
+        <nav class="list-none m-0 p-0 uppercase font-600 text-gray-700">
+            <ul class="flex flex-row">
+                <li class="md:ml-2"><a class="hover:text-blue-700" href="/">About</a></li>
+                <li class="ml-2"><a class="hover:text-blue-700" href="/cv">CV</a></li>
+                
+            </ul>
         </nav>
     </div>
 </div>            
@@ -323,5 +325,13 @@
 </footer>            </div>
         </div>
 
-            </body>
+                <script async src="https://www.googletagmanager.com/gtag/js?id=UA-141183275-1"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'UA-141183275-1');
+        </script>
+
+    </body>
 </html>

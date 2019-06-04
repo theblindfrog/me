@@ -1,6 +1,6 @@
 {
-    "name": "",
-    "short_name": "",
+    "name": "Alexander Powell Personal Website",
+    "short_name": "Alexander Powell",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
@@ -13,7 +13,7 @@
             "type": "image/png"
         }
     ],
-    "theme_color": "#ffffff",
+    "theme_color": "#029dce",
     "background_color": "#ffffff",
     "display": "standalone"
 }
