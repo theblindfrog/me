@@ -1,9 +1,6 @@
 @extends('_layouts.master')
 
 @section('body')
-
-
-
     <section class="mb-16 mt-8">
         <h2 class="mb-6 text-3xl font-500 font-serif tracking-tight">Experience</h2>
 
@@ -229,19 +226,19 @@
 
 @push('seo')
 
-<title>Alexander Powell | CV and Resume</title>
-<meta name="description" content="Alex is an accomplished and passionate full stack developer, capable of working within the full breadth of product">
+    <title>Alexander Powell | CV and Resume</title>
+    <meta name="description" content="Alex is an accomplished and passionate full stack developer, capable of working within the full breadth of product">
 
-<meta property="og:title" content="Alexander Powell">
-<meta property="og:type" content="website">
-<meta property="og:image" content="http://www.alexanderpowell.me/assets/img/me-lg.jpg">
-<meta property="og:url" content="https://www.alexanderpowell.me">
-<meta property="og:description" content="Alex is an accomplished and passionate full stack developer, capable of working within the full breadth of product.">
+    <meta property="og:title" content="Alexander Powell">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="http://www.alexanderpowell.me/assets/img/me-lg.jpg">
+    <meta property="og:url" content="https://www.alexanderpowell.me">
+    <meta property="og:description" content="Alex is an accomplished and passionate full stack developer, capable of working within the full breadth of product.">
 
 
-<meta name="twitter:card" content="Alex is an accomplished and passionate full stack developer, capable of working within the full breadth of product.">
-<meta name="twitter:site" content="@theblindfrog">
-<meta name="twitter:creator" content="@theblindfrog">
-<meta property="twitter:image" content="https://www.alexanderpowell.me/assets/img/me-lg.jpg" />
+    <meta name="twitter:card" content="Alex is an accomplished and passionate full stack developer, capable of working within the full breadth of product.">
+    <meta name="twitter:site" content="@theblindfrog">
+    <meta name="twitter:creator" content="@theblindfrog">
+    <meta property="twitter:image" content="https://www.alexanderpowell.me/assets/img/me-lg.jpg" />
 
 @endpush
