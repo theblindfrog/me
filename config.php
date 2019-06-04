@@ -2,6 +2,6 @@
 
 return [
     'production' => false,
-    'baseUrl' => '',
+    'baseUrl' => 'https://www.alexanderpowell.me',
     'collections' => [],
 ];
