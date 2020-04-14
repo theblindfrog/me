@@ -124,7 +124,7 @@
                             <span class="text-lg text-gray-800 font-500">
                                 Natvia
                             </span>
-                            <small class="uppercase text-sm tracking-copperplate text-gray-600">2011</small>
+                            <small class="uppercase text-sm tracking-copperplate text-gray-600">2012</small>
                         </h3>
                         <p class="leading-snug">The brand website for Natvia. WordPress backed for easy updating by other teams, and translated into 6 different languages.</p>
                     </li>
@@ -135,7 +135,7 @@
                                 Sweeter Life Club
                                 
                             </span>
-                            <small class="uppercase text-sm tracking-copperplate text-gray-600">2011</small>
+                            <small class="uppercase text-sm tracking-copperplate text-gray-600">2012</small>
                         </h3>
                         <p class="leading-snug">A recipe website to promote and provide creative ways of using Natvia in food. WordPress backed with custom taxonomies to facilitate different requirements.</p>
                     </li>
