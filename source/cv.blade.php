@@ -84,21 +84,31 @@
 
                 <h4 class="mb-4 uppercase tracking-wide font-700 text-gray-700"><ion-icon class="text-lg -mb-1 mr-2 sm:-ml-6" name="ribbon"></ion-icon>Awards</h4>
                 <dl class="mb-8">
+                    
+                    <dt class="text-lg flex justify-between items-baseline">
+                        <span>Quarterly Values Award &ndash; Agility</span>
+                        <small class="uppercase text-sm tracking-copperplate text-gray-600">Q1&mdash;2020</small>
+                    </dt>
+                    <dd class="italic text-gray-700 mb-2 lg:w-2/3">Quarterly winners are nominated by peers, who represent agility. Agility is about reacting quickly, applying mental flexibility when a problem needs to be solved and always holding on to the entrepreneurial spirit.</dd>
+
                     <dt class="text-lg flex justify-between items-baseline">
                         <span>Outside the Box Thinker Award</span>
                         <small class="uppercase text-sm tracking-copperplate text-gray-600">2018</small>
                     </dt>
                     <dd class="italic text-gray-700 mb-2 lg:w-2/3">Awarded to an individual who finds creative and divergent ways of solving problems across the business.</dd>
+                    
                     <dt class="text-lg flex justify-between items-baseline">
                         <span>Above and Beyond Award</span>
                         <small class="uppercase text-sm tracking-copperplate text-gray-600">2017</small>
                     </dt>
                     <dd class="italic text-gray-700 mb-2 lg:w-2/3">Awarded to someone who goes beyond of what's required of them and delivers exceptional value to the business.</dd>
+                    
                     <dt class="text-lg flex justify-between items-baseline">
                         <span>Manager Directors' Award</span>
                         <small class="uppercase text-sm tracking-copperplate text-gray-600">2016</small>
                     </dt>
-                    <dd class="italic text-gray-700 mb-2 lg:w-2/3">The "MVP" of the year, awarded at the discretion of the MD <small>(or CEO in other years)</small> to the individual who has made the most impact to the business for the year.</dd>
+                    <dd class="italic text-gray-700 mb-2 lg:w-2/3">The "MVP" of the year, awarded at the discretion of the Managing Director <small>(or CEO in other years)</small> to the individual who has made the most impact to the business for the year.</dd>
+                    
                 </dl>
             </li>
             <li class="mb-12">

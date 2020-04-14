@@ -13,7 +13,6 @@
         <meta name="theme-color" content="#029dce">
         @stack('seo')
 
-        <script src="https://unpkg.com/ionicons@4.5.5/dist/ionicons.js" async></script>
         <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Serif:300,300i,400,500|Libre+Franklin:300,400,400i,500,700&display=swap" rel="stylesheet">
         <link rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}">
 
@@ -48,6 +47,7 @@
             gtag('js', new Date());
             gtag('config', 'UA-141183275-1');
         </script>
+    <script src="https://unpkg.com/ionicons@5.0.0/dist/ionicons.js"></script>
 
     </body>
 </html>
