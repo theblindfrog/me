@@ -86,6 +86,12 @@
                 <dl class="mb-8">
                     
                     <dt class="text-lg flex justify-between items-baseline">
+                        <span>Quarterly Values Award &ndash; Reliability</span>
+                        <small class="uppercase text-sm tracking-copperplate text-gray-600">Q2&mdash;2020</small>
+                    </dt>
+                    <dd class="italic text-gray-700 mb-2 lg:w-2/3">Quarterly winners are nominated by peers, who represent reliability. We build reliable products full of fail safes and back-ups. Reliability is also about being committed to the amaysim way and being responsible and authentic in our behavior.</dd>
+                    
+                    <dt class="text-lg flex justify-between items-baseline">
                         <span>Quarterly Values Award &ndash; Agility</span>
                         <small class="uppercase text-sm tracking-copperplate text-gray-600">Q1&mdash;2020</small>
                     </dt>
