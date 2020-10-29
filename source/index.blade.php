@@ -2,8 +2,14 @@
 
 @section('body')
 
-<p class="font-300 text-xl font-serif leading-relaxed italic mt-8">An accomplished and passionate full stack developer, capable of working within the full breadth of product. From idea and business case to design and development, to deployment and DevOps.</p>
-
+<article class="font-300 text-xl font-serif leading-relaxed italic mt-8">
+    <p class="mb-4">
+        An accomplished and passionate full stack developer, capable of working within the full breadth of product. 
+    </p>
+    <p>
+        With {{ today()->setYear(2011)->diffInYears() }} years of experience across the digital stack and business, I've got a proven record of developing and executing to deliver results and business goals. 
+    </p>
+</article>
 @endsection
 
 @push('seo')
