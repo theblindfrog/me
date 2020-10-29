@@ -2,7 +2,7 @@
 
 @section('body')
 
-<article class="font-300 text-xl font-serif leading-relaxed italic mt-8">
+<article class="mt-8 font-serif text-xl italic leading-relaxed font-300">
     <p class="mb-4">
         An accomplished and passionate full stack developer, capable of working within the full breadth of product. 
     </p>
