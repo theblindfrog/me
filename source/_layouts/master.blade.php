@@ -19,15 +19,15 @@
         @stack('head')
     </head>
     <body class="font-sans antialiased border-t-8 bg-primary-100 border-primary-500">
-        <div class="container mx-auto mt-12 sm:mt-16 md:mt-32">
+        <div class="container mx-auto mt-12 sm:mt-16 md:mt-32 md:pr-6">
              
             @include('_partials.header')
             
-            <div class="w-full px-4  md:w-golden-5/6 md:ml-golden-1/6 md:px-0 md:min-h-40 lg:w-golden-2/3">
+            <div class="w-full px-4 md:w-golden-5/6 md:ml-golden-1/6 md:px-0 md:min-h-40 lg:w-golden-2/3">
                 @yield('body')
             </div>
 
-            <div class="w-full px-4  md:w-golden-5/6 md:ml-golden-1/6 md:px-0 lg:w-golden-2/3">
+            <div class="w-full px-4 md:w-golden-5/6 md:ml-golden-1/6 md:px-0">
                 @include('_partials.footer')
             </div>
         </div>

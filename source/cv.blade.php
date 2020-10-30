@@ -11,7 +11,9 @@
                     <small class="text-sm text-gray-600 uppercase tracking-copperplate">2013 &mdash; Present</small>
                 </h3>
 
-                <h4 class="mb-4 tracking-wide text-gray-700 uppercase font-700"><ion-icon class="mr-2 -mb-1 text-lg sm:-ml-6" name="checkmark-circle-outline"></ion-icon>Key Accomplishments</h4>
+                <h4 class="mb-4 tracking-wide text-gray-700 uppercase font-700">
+                    <svg xmlns='http://www.w3.org/2000/svg' class="inline-block h-5 mr-1 fill-current -mt-05 sm:-ml-6" viewBox='0 0 512 512'><title>Checkmark Circle</title><path d='M448 256c0-106-86-192-192-192S64 150 64 256s86 192 192 192 192-86 192-192z' fill='none' stroke='currentColor' stroke-miterlimit='10' stroke-width='32'/><path fill='none' stroke='currentColor' stroke-linecap='round' stroke-linejoin='round' stroke-width='32' d='M352 176L217.6 336 160 272'/></svg>
+                    Key Accomplishments</h4>
                 <ol class="mb-8">
                     <li class="mb-4">
                         <h3 class="flex items-baseline justify-between mb-2">
@@ -94,7 +96,11 @@
                     
                 </ol>
 
-                <h4 class="mb-4 tracking-wide text-gray-700 uppercase font-700"><ion-icon class="mr-2 -mb-1 text-lg sm:-ml-6" name="ribbon"></ion-icon>Awards</h4>
+                <h4 class="mb-4 tracking-wide text-gray-700 uppercase font-700">
+    
+                    <svg xmlns='http://www.w3.org/2000/svg' class="inline-block h-5 fill-current mr-05 -mt-05 sm:-ml-6" viewBox='0 0 512 512'><title>Ribbon</title><path d='M269 335.61q-6.33.47-12.78.47c-5.23 0-10.4-.24-15.51-.69a176.11 176.11 0 01-127.67-72.94 4 4 0 00-6.77.35l-72 129.4c-2.74 5-3.17 11-.28 15.88A16.78 16.78 0 0048.22 416h78a15.28 15.28 0 0113.62 7.33L178.5 488a16.26 16.26 0 0013.75 8c5.94-.33 12.09-4.19 14.56-9.6l66.11-145.15a4 4 0 00-3.92-5.64zM477.64 391.88l-71.53-129.17a4 4 0 00-6.74-.36 176.5 176.5 0 01-78.31 61.42 16.09 16.09 0 00-8.72 8.25l-36.86 81.1a7.92 7.92 0 000 6.6l30.27 66.59c2.45 5.41 8.59 9.36 14.52 9.69a16.3 16.3 0 0013.7-8.12l38.53-64.58c2.89-4.85 8.13-7.33 13.78-7.3h78.77c6.67 0 11.72-3.48 14-10a16.92 16.92 0 00-1.41-14.12z'/><ellipse cx='256.26' cy='160' rx='48.01' ry='48'/><path d='M256.26 16c-79.42 0-144 64.59-144 144s64.61 144 144 144 144-64.6 144-144-64.59-144-144-144zm0 224a80 80 0 1180-80 80.1 80.1 0 01-80 80z'/></svg>
+                    
+                    Awards</h4>
                 <dl class="mb-8">
                     
                     <dt class="flex items-baseline justify-between text-lg">
@@ -135,7 +141,9 @@
                     <small class="text-sm text-gray-600 uppercase tracking-copperplate">2012 &mdash; 2013</small>
                 </h3>
 
-                <h4 class="mb-4 tracking-wide text-gray-700 uppercase font-700"><ion-icon class="mr-2 -mb-1 text-lg sm:-ml-6" name="checkmark-circle-outline"></ion-icon>Key Accomplishments</h4>
+                <h4 class="mb-4 tracking-wide text-gray-700 uppercase font-700">
+                    <svg xmlns='http://www.w3.org/2000/svg' class="inline-block h-5 mr-1 fill-current -mt-05 sm:-ml-6" viewBox='0 0 512 512'><title>Checkmark Circle</title><path d='M448 256c0-106-86-192-192-192S64 150 64 256s86 192 192 192 192-86 192-192z' fill='none' stroke='currentColor' stroke-miterlimit='10' stroke-width='32'/><path fill='none' stroke='currentColor' stroke-linecap='round' stroke-linejoin='round' stroke-width='32' d='M352 176L217.6 336 160 272'/></svg>
+                    Key Accomplishments</h4>
                 <ol class="mb-8">
                     <li class="mb-4">
                         <h3 class="flex items-baseline justify-between mb-2">
@@ -209,15 +217,17 @@
                     <li>HTML</li>
                     <li>SQL <small class="uppercase">(MySQL)</small></li>
                     <li>APIs <small class="uppercase">(REST, SOAP)</small></li>
+                    <li>OAuth</li>
                 </ul>
             </div>
             <div class="w-5/12">
                 <h5 class="mb-2 tracking-wide uppercase font-700">Frameworks</h5>
                 <ul>
                     <li>Laravel</li>
-                    <li>Bootstrap CSS</li>
                     <li>Tailwind CSS</li>
+                    <li>Bootstrap CSS</li>
                     <li>Vue.js <small class="uppercase">(2.x)</small></li>
+                    <li>Inertia.js</li>
                     <li>Angular JS <small class="uppercase">(1.x)</small></li>
                     <li>CakePHP <small class="uppercase">(2.x)</small></li>
                 </ul>
