@@ -7,7 +7,7 @@
         An accomplished and passionate full stack developer, capable of working within the full breadth of product. 
     </p>
     <p>
-        With {{ today()->setYear(2011)->diffInYears() }} years of experience across the digital stack and business, I've got a proven record of developing and executing to deliver results and business goals. 
+        With {{ \Carbon\Carbon::today()->setMonth(1)->setYear(2011)->diffInYears() }} years of experience across the digital stack and business, I've got a proven record of developing and executing to deliver results and business goals. 
     </p>
 </article>
 @endsection
