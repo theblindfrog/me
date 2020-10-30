@@ -71,7 +71,7 @@ module.exports = {
       'golden-1/6': '14.5893%',
     },
     screens: {
-      xs: '320px',
+      xs: '375px',
       sm: '480px',
       md: '640px',
       lg: '920px',
