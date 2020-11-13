@@ -17,7 +17,7 @@
         </p>
 
         <p>
-            In my spare time, dad to two boys, DIY enthusiast, I'm an aspiring woodworker, professional freelance photographer, and reformed coffee addict.
+            In my spare time I'm a dad to two boys, a DIY enthusiast,  an aspiring woodworker, professional freelance photographer, and reformed coffee addict.
         </p>
 
         <p>
