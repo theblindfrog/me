@@ -2,12 +2,9 @@
 
 @section('body')
 
-<article class="mt-8 font-serif text-xl italic leading-relaxed font-300">
-    <p class="mb-4">
-        An accomplished and passionate full stack developer, capable of working within the full breadth of product. 
-    </p>
+<article class="mt-8 font-serif text-xl leading-relaxed font-400">
     <p>
-        With {{ \Carbon\Carbon::today()->setMonth(1)->setYear(2011)->diffInYears() }} years of experience across the digital stack and business, I've got a proven record of developing and executing solutions to deliver results and business goals. 
+        An accomplished, passionate & curious digital all-rounder with {{ \Carbon\Carbon::today()->setMonth(1)->setYear(2011)->diffInYears() }} years of professional experience, capable of working across the full end-to-end breadth of a product; from an idea or business case, design & analysis - through to development, testing, devops, and deployment.
     </p>
 </article>
 @endsection
