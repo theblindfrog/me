@@ -2,7 +2,7 @@
 
 @section('body')
 
-<article class="mt-8 font-serif text-xl leading-relaxed font-400">
+<article class="mt-8 font-serif prose-2xl font-400">
     <p>
         An accomplished, passionate & curious digital all-rounder with {{ \Carbon\Carbon::today()->setMonth(1)->setYear(2011)->diffInYears() }} years of professional experience, capable of working across the full end-to-end breadth of a product; from an idea or business case, design & analysis - through to development, testing, devops, and deployment.
     </p>

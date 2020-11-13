@@ -5,12 +5,12 @@
         </p>
     </div>
     <div class="w-auto sm:w-golden-2/3">
-        <h1 class="mb-2 text-2xl font-normal leading-none tracking-tight sm:text-3xl sm:mb-4 md:text-4xl md:lg-6 md:tracking-tighter">Alexander Powell</h1>
+        <h1 class="mb-2 text-2xl font-normal leading-none tracking-tight sm:text-3xl sm:mb-4 md:text-4xl md:lg-6 md:tracking-tighter"><a class="hover:text-blue-700" href="/">Alexander Powell</a></h1>
     </div>
     <div class="w-full ml-14 sm:ml-16 md:ml-0 md:w-golden-2/6">
         <nav class="p-0 m-0 text-gray-700 uppercase list-none font-600">
             <ul class="flex flex-row md:justify-end">
-                <li class="md:ml-2"><a class="hover:text-blue-700" href="/">About</a></li>
+                <li class="md:ml-2"><a class="hover:text-blue-700" href="/about">About</a></li>
                 <li class="ml-2"><a class="hover:text-blue-700" href="/cv">CV</a></li>
                 {{-- <li><a href="/projects">Projects</a></li> --}}
             </ul>
