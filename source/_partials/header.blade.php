@@ -1,7 +1,7 @@
 <div class="flex flex-wrap px-4 w-100 md:px-0 md:items-baseline">
     <div class="self-start w-14 sm:w-golden-1/6">
         <p class="w-12 h-12 -mt-3 sm:w-14 sm:h-14 sm:-mt-3 md:w-20 md:h-20 md:-mt-6 lg:ml-4 xl:ml-12">
-            <img src="/assets/img/me.jpg" alt="Photo of Alexander Powell" class="border-2 border-gray-100 rounded-full shadow-lg md:border-4">
+            <img src="/assets/img/me.jpg" alt="Photo of Alexander Powell" class="border-2 border-white rounded-full shadow-lg md:border-4">
         </p>
     </div>
     <div class="w-auto sm:w-golden-2/3">
