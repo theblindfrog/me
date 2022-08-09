@@ -40,7 +40,7 @@
                 <li class="mb-6">
                     <h3 class="flex items-baseline justify-between mb-2">
                         <span class="text-lg text-gray-800 font-500">
-                            <a class="hover:text-primary-500" href="https://www.onthemove.com.au/unilodge" target="_blank">
+                            <a class="hover:text-primary-500" href="https://www.tally.co/acquire/features" target="_blank">
                                 Zappy
                                 <svg xmlns='http://www.w3.org/2000/svg' class='inline-block h-4 fill-current -mt-05' viewBox='0 0 512 512'>
                                     <title>Open</title>
