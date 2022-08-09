@@ -50,9 +50,7 @@
                         </span>
                         <small class="text-sm text-right text-gray-600 uppercase tracking-copperplate">2021</small>
                     </h3>
-                    <p class="leading-snug">A turnkey whitelabelled React sales funnel for Australian energy retailers in the NEM. Rolled out 16 instances to 7
-                    different retail business over 12 months - each with different business requirements, features, themes, and
-                    integrations.</p>
+                    <p class="leading-snug">A turnkey whitelabelled React sales funnel for Australian energy retailers in the NEM. Rolled out 16 instances to 7 ifferent retail business over 12 months - each with different business requirements, features, themes, and integrations.</p>
                 </li>
 
 
