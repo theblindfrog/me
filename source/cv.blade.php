@@ -7,8 +7,82 @@
     <ol>
         <li class="mb-12">
             <h3 class="flex items-baseline justify-between mb-6 leading-none">
+                <span class="font-serif text-2xl tracking-tight font-400">Tally Group</span>
+                <small class="text-sm text-right text-gray-600 uppercase tracking-copperplate">2021 &mdash; Present</small>
+            </h3>
+
+            <h4 class="mb-4 tracking-wide text-gray-700 uppercase font-700">
+                <svg xmlns='http://www.w3.org/2000/svg' class="inline-block h-5 mr-1 fill-current -mt-05 sm:-ml-7" viewBox='0 0 512 512'>
+                    <title>Briefcase</title>
+                    <rect x='32' y='128' width='448' height='320' rx='48' ry='48' fill='none' stroke='currentColor' stroke-linejoin='round' stroke-width='32' />
+                    <path d='M144 128V96a32 32 0 0132-32h160a32 32 0 0132 32v32M480 240H32M320 240v24a8 8 0 01-8 8H200a8 8 0 01-8-8v-24' fill='none' stroke='currentColor' stroke-linecap='round' stroke-linejoin='round' stroke-width='32' />
+                </svg>
+                Key Responsibilities</h4>
+            <ul class="mb-8 ml-4 space-y-1 list-disc">
+                <li>React web applciation development</li>
+                <li>PHP (Yii2) application developement</li>
+                <li>Grooming and solutioning tickets</li>
+                <li>Client and stakeholder meetings, gathing requirments, providing updates to clients.</li>
+                <li>API design and developement for 1st & 3rd parties, interacting with a CRM</li>
+                <li>Application performance improvements</li>
+            </ul>
+
+
+
+            <h4 class="mb-4 tracking-wide text-gray-700 uppercase font-700">
+                <svg xmlns='http://www.w3.org/2000/svg' class="inline-block h-5 mr-1 fill-current -mt-05 sm:-ml-6" viewBox='0 0 512 512'>
+                    <title>Checkmark Circle</title>
+                    <path d='M448 256c0-106-86-192-192-192S64 150 64 256s86 192 192 192 192-86 192-192z' fill='none' stroke='currentColor' stroke-miterlimit='10' stroke-width='32' />
+                    <path fill='none' stroke='currentColor' stroke-linecap='round' stroke-linejoin='round' stroke-width='32' d='M352 176L217.6 336 160 272' />
+                </svg>
+                Key Accomplishments</h4>
+            <ol class="mb-8">
+                <li class="mb-6">
+                    <h3 class="flex items-baseline justify-between mb-2">
+                        <span class="text-lg text-gray-800 font-500">
+                            <a class="hover:text-primary-500" href="https://www.onthemove.com.au/unilodge" target="_blank">
+                                Zappy
+                                <svg xmlns='http://www.w3.org/2000/svg' class='inline-block h-4 fill-current -mt-05' viewBox='0 0 512 512'>
+                                    <title>Open</title>
+                                    <path d='M384 224v184a40 40 0 01-40 40H104a40 40 0 01-40-40V168a40 40 0 0140-40h167.48M336 64h112v112M224 288L440 72' fill='none' stroke='currentColor' stroke-linecap='round' stroke-linejoin='round' stroke-width='32' />
+                                </svg>
+                            </a>
+                        </span>
+                        <small class="text-sm text-right text-gray-600 uppercase tracking-copperplate">2021</small>
+                    </h3>
+                    <p class="leading-snug">A turnkey whitelabelled React sales funnel for Australian energy retailers in the NEM. Rolled out 16 instances to 7
+                    different retail business over 12 months - each with different business requirements, features, themes, and
+                    integrations.</p>
+                </li>
+
+
+            </ol>
+
+            <h4 class="mt-8 mb-4 tracking-wide text-gray-700 uppercase font-700">
+
+                <svg xmlns='http://www.w3.org/2000/svg' class="inline-block h-5 fill-current mr-05 -mt-05 sm:-ml-6" viewBox='0 0 512 512'>
+                    <title>Ribbon</title>
+                    <circle cx='256' cy='160' r='128' fill='none' stroke='currentColor' stroke-linecap='round' stroke-linejoin='round' stroke-width='32' />
+                    <path d='M143.65 227.82L48 400l86.86-.42a16 16 0 0113.82 7.8L192 480l88.33-194.32' fill='none' stroke='currentColor' stroke-linecap='round' stroke-linejoin='round' stroke-width='32' />
+                    <path d='M366.54 224L464 400l-86.86-.42a16 16 0 00-13.82 7.8L320 480l-64-140.8' fill='none' stroke='currentColor' stroke-linecap='round' stroke-linejoin='round' stroke-width='32' />
+                    <circle cx='256' cy='160' r='64' fill='none' stroke='currentColor' stroke-linecap='round' stroke-linejoin='round' stroke-width='32' />
+                </svg>
+                Awards</h4>
+            <dl class="mb-8">
+
+                <dt class="flex items-baseline justify-between mb-2 text-lg">
+                    <span>Values Award &ndash; Ownership &amp; Collaboration</span>
+                    <small class="text-sm text-right text-gray-600 uppercase tracking-copperplate">Q1&mdash;2022</small>
+                </dt>
+
+
+
+            </dl>
+        </li>
+        <li class="mb-12">
+            <h3 class="flex items-baseline justify-between mb-6 leading-none">
                 <span class="font-serif text-2xl tracking-tight font-400">Click Energy & On The Move</span>
-                <small class="text-sm text-right text-gray-600 uppercase tracking-copperplate">2013 &mdash; Present</small>
+                <small class="text-sm text-right text-gray-600 uppercase tracking-copperplate">2013 &mdash; 2021</small>
             </h3>
 
             <h4 class="mb-4 tracking-wide text-gray-700 uppercase font-700">
@@ -270,7 +344,7 @@
 
 <meta property="og:title" content="Alexander Powell">
 <meta property="og:type" content="website">
-<meta property="og:image" content="http://www.alexanderpowell.me/assets/img/me-lg.jpg">
+<meta property="og:image" content="http://www.alexanderpowell.me/assets/img/me.jpg">
 <meta property="og:url" content="https://www.alexanderpowell.me">
 <meta property="og:description" content="Alex is an accomplished and passionate full stack developer, capable of working within the full breadth of product.">
 
@@ -278,6 +352,6 @@
 <meta name="twitter:card" content="Alex is an accomplished and passionate full stack developer, capable of working within the full breadth of product.">
 <meta name="twitter:site" content="@theblindfrog">
 <meta name="twitter:creator" content="@theblindfrog">
-<meta property="twitter:image" content="https://www.alexanderpowell.me/assets/img/me-lg.jpg" />
+<meta property="twitter:image" content="https://www.alexanderpowell.me/assets/img/me.jpg" />
 
 @endpush
