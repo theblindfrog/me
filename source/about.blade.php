@@ -9,11 +9,14 @@
             I'm Alex, an accomplished, passionate & curious digital all-rounder with {{ \Carbon\Carbon::today()->setMonth(1)->setYear(2011)->diffInYears() }} years of professional experience, capable of working across the full end-to-end breadth of a product; from an idea or business case, design & analysis - through to development, testing, devops, and deployment.
         </p>
         <p>
-            For the last {{ \Carbon\Carbon::today()->setMonth(10)->setDay(1)->setYear(2013)->diffInYears() }} years I've been the digital manager at <a href="https://www.clickenergy.com.au" target="_blank" rel="noopener">Click Energy</a> and <a href="https://www.onthemove.com.au" target="_blank" rel="noopener">On The Move</a> - an energy retailer with 200,000+ customers, and a utilities connection business with 800+ real estate agencies, moving over 70,000 customers.
+            For the last {{ \Carbon\Carbon::today()->setMonth(4)->setDay(1)->setYear(2021)->diffInYears() }} years I've been a senior developer at <a href="https://tally.co" target="_blank" rel="noopener">Tally Group</a>, working in the customer aquistion solutions space, supporting 7+ energy retailers in the Australian <a href="https://aemo.com.au/en/energy-systems/electricity/national-electricity-market-nem" target="_blank" rel="noopener">National Electricity Market</a>. 
+        </p>
+        <p>
+            Previously I was the digital manager at <a href="https://www.clickenergy.com.au" target="_blank" rel="noopener">Click Energy</a> and <a href="https://www.onthemove.com.au" target="_blank" rel="noopener">On The Move</a> - an energy retailer with 200,000+ customers, and a utilities connection business with 800+ real estate agencies, moving over 70,000 customers.
         </p>
 
         <p>
-            During this time, I've been responsible for growing the business digitally, through own online sales funnel, generating leads via out best-in-class quoting tool, and digitally transforming the On The Move business with our real estate partner portal, a suite of integrations with real estate CRMs, and our embeddable utilities application form product.
+            During that time, I've been responsible for growing the business digitally, through own online sales funnel, generating leads via out best-in-class quoting tool, and digitally transforming the On The Move business with our real estate partner portal, a suite of integrations with real estate CRMs, and our embeddable utilities application form product.
         </p>
 
         <p>
