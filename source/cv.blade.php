@@ -19,8 +19,9 @@
                 </svg>
                 Key Responsibilities</h4>
             <ul class="mb-8 ml-4 space-y-1 list-disc">
+                <li>Managing a team of 4 other developers</li>
                 <li>React web applciation development</li>
-                <li>PHP (Yii2) application developement</li>
+                <li>PHP (Yii2, Laravel) application developement</li>
                 <li>Grooming and solutioning tickets</li>
                 <li>Client and stakeholder meetings, gathing requirments, providing updates to clients.</li>
                 <li>API design and developement for 1st & 3rd parties, interacting with a CRM</li>
