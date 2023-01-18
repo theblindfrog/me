@@ -13,10 +13,10 @@
             $duration = ($startDate->diffInYears() >= 2) ? $startDate->diffInYears() . " years" : $startDate->diffInMonths() . " months";
         @endphp
         <p>
-            For the last {{ $duration }} I've been a senior developer at <a href="https://tally.co" target="_blank" rel="noopener">Tally Group</a>, working in the customer aquistion solutions space, supporting 7+ energy retailers in the Australian <a href="https://aemo.com.au/en/energy-systems/electricity/national-electricity-market-nem" target="_blank" rel="noopener">National Electricity Market</a>. 
+            For the last {{ $duration }} I've been a senior developer at <a class="text-blue-700 hover:underline" href="https://tally.co" target="_blank" rel="noopener">Tally Group</a>, working in the customer aquistion solutions space, supporting 7+ energy retailers in the Australian <a class="text-blue-700 hover:underline" href="https://aemo.com.au/en/energy-systems/electricity/national-electricity-market-nem" target="_blank" rel="noopener">National Electricity Market</a>. 
         </p>
         <p>
-            Previously I was the digital manager at <a href="https://www.clickenergy.com.au" target="_blank" rel="noopener">Click Energy</a> and <a href="https://www.onthemove.com.au" target="_blank" rel="noopener">On The Move</a> - an energy retailer with 200,000+ customers, and a utilities connection business with 800+ real estate agencies, moving over 70,000 customers.
+            Previously I was the digital manager at <a class="text-blue-700 hover:underline" href="https://www.clickenergy.com.au" target="_blank" rel="noopener">Click Energy</a> and <a class="text-blue-700 hover:underline" href="https://www.onthemove.com.au" target="_blank" rel="noopener">On The Move</a> - an energy retailer with 200,000+ customers, and a utilities connection business with 800+ real estate agencies, moving over 70,000 customers.
         </p>
 
         <p>
