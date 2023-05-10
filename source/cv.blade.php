@@ -20,11 +20,11 @@
                 Key Responsibilities</h4>
             <ul class="mb-8 ml-4 space-y-1 list-disc">
                 <li>Managing a team of 4 other developers</li>
-                <li>React web applciation development</li>
-                <li>PHP (Yii2, Laravel) application developement</li>
+                <li>React web application development</li>
+                <li>PHP (Yii2, Laravel) application development</li>
                 <li>Grooming and solutioning tickets</li>
-                <li>Client and stakeholder meetings, gathing requirments, providing updates to clients.</li>
-                <li>API design and developement for 1st & 3rd parties, interacting with a CRM</li>
+                <li>Client and stakeholder meetings, gathering requirments, providing updates to clients.</li>
+                <li>API design and development for 1st & 3rd parties, interacting with a CRM</li>
                 <li>Application performance improvements</li>
             </ul>
 
@@ -51,7 +51,7 @@
                         </span>
                         <small class="text-sm text-right text-gray-600 uppercase tracking-copperplate">2021</small>
                     </h3>
-                    <p class="leading-snug">A turnkey whitelabelled React sales funnel for Australian energy retailers in the NEM. Rolled out 16 instances to 7 ifferent retail business over 12 months - each with different business requirements, features, themes, and integrations.</p>
+                    <p class="leading-snug">A turnkey whitelabelled React sales funnel for Australian energy retailers in the NEM. Rolled out 16 instances to 7 different retail businesses over 12 months - each with different business requirements, features, themes, and integrations.</p>
                 </li>
 
 
@@ -97,7 +97,7 @@
                 <li>Automation & integration of internal and external systems</li>
                 <li>API design and development for internal and external (public) use</li>
                 <li>AEMO MSATS integrations</li>
-                <li>Australian Governemnt DVS integration for identify verification</li>
+                <li>Australian Government DVS integration for identify verification</li>
                 <li>Service uptime and reliability</li>
                 <li>Devops environment creation</li>
                 <li>CI/CD processes</li>
@@ -183,7 +183,7 @@
                         </span>
                         <small class="text-sm text-right text-gray-600 uppercase tracking-copperplate">2017</small>
                     </h3>
-                    <p class="leading-snug">Technical delivery leader to launch the customer facing amaysim energy brand. From sales funnels, quoting tool, in addition to BAU functions - like paying a bill, or adding a concession to your account. White labelling and integrating Click's existing assets with amaysim's brand a systems - resulting in tens of thousands of sales from a ~5 month project.</p>
+                    <p class="leading-snug">Technical delivery leader to launch the customer facing amaysim energy brand. From sales funnels, quoting tool, in addition to BAU functions - like paying a bill, or adding a concession to your account. White labelling and integrating Click's existing assets with amaysim's brand systems - resulting in tens of thousands of sales from a ~5 month project.</p>
                 </li>
 
                 <li class="mb-6">
@@ -199,7 +199,7 @@
                         </span>
                         <small class="text-sm text-right text-gray-600 uppercase tracking-copperplate">2015</small>
                     </h3>
-                    <p class="leading-snug">A complete end-to-end process to redesign and implement a fresh new look for Click Energy main website - from initial design and static mockups to front-end development and deploy.</p>
+                    <p class="leading-snug">A complete end-to-end process to redesign and implement a fresh new look for Click Energy main website - from initial design and static mockups to front-end development and deployment.</p>
                 </li>
 
 
