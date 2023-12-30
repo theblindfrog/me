@@ -17,14 +17,14 @@
         . " months";
         @endphp
         <p>
-            For the last {{ $duration }} I've been a technical lead at <a class="text-blue-700 hover:underline"
+            For the last {{ $duration }}, I've been a technical lead at <a class="text-blue-700 hover:underline"
                 href="https://tally.co" target="_blank" rel="noopener">Tally Group</a>, working in the customer
-            aquistion solutions space, supporting 7+ energy retailers in the Australian <a
+            acquisition solutions space, supporting 7+ energy retailers in the Australian <a
                 class="text-blue-700 hover:underline"
                 href="https://aemo.com.au/en/energy-systems/electricity/national-electricity-market-nem" target="_blank"
-                rel="noopener">National Electricity Market</a>. My team build and support a best-in-market sales system
-            that processes tens-of-thousands of energy sales per month, and a suite of tools that support retailers and
-            their partners, sales agents, and end-consumers.
+                rel="noopener">National Electricity Market</a>. My team builds and supports a best-in-market sales
+            system that processes tens-of-thousands of energy sales per month, and a suite of tools that support
+            retailers and their partners, sales agents, and end-consumers.
         </p>
         <p>
             Previously I was the digital manager at <a class="text-blue-700 hover:underline"
