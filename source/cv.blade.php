@@ -5,7 +5,7 @@
     <h2 class="mb-6 font-serif text-3xl tracking-tight font-500">Experience</h2>
 
     <ol>
-        <li class="mb-12">
+        <li class="mb-12 md:mb-24">
             <h3 class="flex items-baseline justify-between mb-6 leading-none">
                 <span class="font-serif text-2xl tracking-tight font-400">Tally Group</span>
                 <small class="text-sm text-right text-gray-600 uppercase tracking-copperplate">2021 &mdash;
@@ -127,7 +127,7 @@
 
             </dl>
         </li>
-        <li class="mb-12">
+        <li class="mb-12 md:mb-24">
             <h3 class="flex items-baseline justify-between mb-6 leading-none">
                 <span class="font-serif text-2xl tracking-tight font-400">Click Energy & On The Move</span>
                 <small class="text-sm text-right text-gray-600 uppercase tracking-copperplate">2013 &mdash; 2021</small>
@@ -380,7 +380,7 @@
 
             </dl>
         </li>
-        <li class="mb-12">
+        <li class="mb-12 md:mb-24">
             <h3 class="flex items-baseline justify-between mb-6 leading-none">
                 <span class="font-serif text-2xl tracking-tight font-400">Natvia</span>
                 <small class="text-sm text-right text-gray-600 uppercase tracking-copperplate">2012 &mdash; 2013</small>
