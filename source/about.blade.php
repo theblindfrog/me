@@ -32,22 +32,22 @@
                 rel="noopener">Click Energy</a> and <a class="text-blue-700 hover:underline"
                 href="https://web.archive.org/web/20200628023001/https://www.onthemove.com.au/" target="_blank"
                 rel="noopener">On The Move</a> - an energy retailer with 215,000+ customers, and a utilities connection
-            business with 800+ real estate agencies, moving over 70,000 customers annually - both which were acquired by
-            <a class="text-blue-700 hover:underline"
+            business with 800+ real estate agencies, moving over 70,000 customers annually - both of which were acquired
+            by <a class="text-blue-700 hover:underline"
                 href="https://www.agl.com.au/about-agl/media-centre/asx-and-media-releases/2020/august/agl-enters-binding-agreement-to-acquire-click-energy-group"
                 target="_blank" rel="noopener">AGL</a>.
         </p>
 
         <p>
-            During that time, I've been responsible for growing the business digitally, through own online sales funnel,
-            generating leads via out best-in-class quoting tool, and digitally transforming the On The Move business
-            with our real estate partner portal, a suite of integrations with real estate CRMs, and our embeddable
-            utilities application form product.
+            During that time, I've been responsible for growing the business digitally, through our own online sales
+            funnel, generating leads via our best-in-class quoting tool, and digitally transforming the On The Move
+            business with our real estate partner portal, a suite of integrations with real estate CRMs, and our
+            embeddable utilities application form product.
         </p>
 
         <p>
-            In my spare time I'm a dad to two boys, a DIY enthusiast, an aspiring woodworker, running addict, and
-            reformed coffee addict.
+            In my spare time, I'm a dad to two boys, a DIY enthusiast, an aspiring woodworker, a running addict, and
+            a reformed coffee addict.
         </p>
 
         <p>
