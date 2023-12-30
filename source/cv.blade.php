@@ -52,7 +52,7 @@
                 <li>Collaborating with cross-functional teams for successful project delivery, fostering a culture of
                     teamwork and innovation.</li>
                 <li>Staying updated on industry best practices, emerging technologies, and incorporating relevant
-                    advancements into the development process the team.</li>
+                    advancements into the development processes of team.</li>
             </ul>
             <h4 class="mb-4 tracking-wide text-gray-700 uppercase font-700">
                 <svg xmlns='http://www.w3.org/2000/svg' class="inline-block h-5 mr-1 fill-current -mt-05 sm:-ml-6"
