@@ -89,6 +89,17 @@
                         businesses, with each instance customized for the unique features, themes, and integrations
                         for each retail entity.</p>
                 </li>
+                <li class="mb-6">
+                    <h3 class="flex items-baseline justify-between mb-2">
+                        <span class="text-lg text-gray-800 font-500">
+                            Global Quality & Static Analysis Platform
+                        </span>
+                        <small class="text-sm text-right text-gray-600 uppercase tracking-copperplate">2023</small>
+                    </h3>
+                    <p class="leading-snug">Advocating for, piloting, and leading roll out a new code quality & static
+                        analysis platform for the global business across projects spanning 5 international markets, and
+                        8 internal business groups</p>
+                </li>
             </ol>
             <h4 class="mt-8 mb-4 tracking-wide text-gray-700 uppercase font-700">
                 <svg xmlns='http://www.w3.org/2000/svg' class="inline-block h-5 fill-current mr-05 -mt-05 sm:-ml-6"
