@@ -5,29 +5,31 @@
         <div class="w-5/12">
             <h5 class="mb-2 tracking-wide uppercase font-700">Languages</h5>
             <ul>
-                <li>PHP <small class="uppercase">(5.x, 7.x, 8.0)</small> - 10 years</li>
-                <li>Javascript - <small class="uppercase">(ES5, ES6)</small> - 5 years</li>
-                <li>CSS <small class="uppercase">(SASS, PostCSS)</small> - 10 years</li>
-                <li>HTML - 10 years</li>
-                <li>SQL <small class="uppercase">(MySQL, SQLite)</small> - 7 years</li>
-                <li>APIs <small class="uppercase">(REST, SOAP)</small> - 7 years</li>
-                <li>OAuth2 - 2 years</li>
-                <li>SEO / SEM - 10 years</li>
+                <li>PHP <small class="uppercase">(5.x, 7.x, 8.x)</small> - 10+ years</li>
+                <li>Javascript - <small class="uppercase">(ES5, ES6)</small> - 7 years</li>
+                <li>CSS <small class="uppercase">(SASS, PostCSS)</small> - 10+ years</li>
+                <li>HTML - 10+ years</li>
+                <li>SQL <small class="uppercase">(MySQL, SQLite)</small> - 10+ years</li>
+                <li>APIs <small class="uppercase">(REST, SOAP)</small> - 10+ years</li>
+                <li>Docker - 5+ years</li>
+                <li>OAuth2 - 5+ years</li>
+                <li>SEO / SEM - 10+ years</li>
                 <li>A/B testing - 4 years</li>
             </ul>
         </div>
         <div class="w-5/12 ml-6">
             <h5 class="mb-2 tracking-wide uppercase font-700">Frameworks</h5>
             <ul>
-                <li>Laravel <small class="uppercase">(4.x - 8.x)</small> - 7 years</li>
-                <li>TailwindCSS <small class="uppercase">(1.x, 2.x)</small> - 2 years</li>
-                <li>BootstrapCSS <small class="uppercase">(2.x -4.x)</small> - 8 years</li>
-                <li>Vue.JS <small class="uppercase">(2.x)</small> - 3 years</li>
-                <li>Inertia.js - 2 years</li>
+                <li>Laravel <small class="uppercase">(4.x - 11.x)</small> - 10+ years</li>
+                <li>TailwindCSS <small class="uppercase">(1.x - 4.x)</small> - 4 years</li>
+                <li>BootstrapCSS <small class="uppercase">(2.x - 5.x)</small> - 10+ years</li>
+                <li>React <small class="uppercase">(16.x - 17.x)</small> - 2 years</li>
+                <li>Vue <small class="uppercase">(2.x, 3.x)</small> - 4 years</li>
+                <li>Inertia.js - 4 years</li>
                 <li>AngularJS <small class="uppercase">(1.x)</small> - 5 years</li>
                 <li>Statamic <small class="uppercase">(3.x)</small> - 1 year</li>
-                <li>Zurb Ink <small class="uppercase">(1.x, 2.x)</small> - 3 years</li>
-                <li>Laravel Vapor - 2 years</li>
+                <li>Laravel Vapor - 4 years</li>
+                <li>Yii2 Framework - 3+ years</li>
             </ul>
         </div>
     </div>
