@@ -5,6 +5,7 @@ import "./globals.css";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import { DitheringShader } from "@/components/ui/dithering-shader";
+import { SpeedInsights } from "@vercel/speed-insights/next"
 
 const ibmPlexSans = IBM_Plex_Sans({
   subsets: ["latin"],
@@ -75,6 +76,7 @@ export default function RootLayout({
           <main className="flex-grow relative">
             
             <div className="relative z-10 md:px-24 md:mx-2">{children}</div>
+            <SpeedInsights />
             <div className="absolute w-full h-full top-0 z-1 left-0 bg-white blur-2xl"></div>
             </main>
 
