@@ -85,8 +85,9 @@ export function AnimatedTilesImage({
       animFramesRef.current[i] = requestAnimationFrame(animate)
     })
 
+    const frames = animFramesRef.current
     return () => {
-      animFramesRef.current.forEach(cancelAnimationFrame)
+      frames.forEach(cancelAnimationFrame)
     }
   }, [imageUrl])
 
