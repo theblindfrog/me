@@ -10,7 +10,7 @@ The site aims to house information about myself, my CV, and perhaps one day - a 
 
 ```
 git clone https://github.com/theblindfrog/me && cd me
-npm install
+npm ci
 ```
 
 ## Running locally
