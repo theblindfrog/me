@@ -45,6 +45,16 @@ const PROJECTS = [
     tags: ["SaaS", "B2B", "AI", "FoodTech"],
     techStack: ["Laravel", "Inertia.js", "React", "TypeScript", "PostgreSQL", "Paddle", "Tailwind CSS"],
   },
+  {
+    name: "SuiteClock",
+    description:
+      "The enterprise time tracking solution that makes logging hours effortless for your team, ensuring every billable minute is accurately captured and invoiced.",
+    href: "https://suiteclock.com",
+    hrefText: "suiteclock.com",
+    logo: "/img/projects/suiteclock-logo.svg",
+    tags: ["SaaS", "B2B", "Enterprise", "Desktop"],
+    techStack: ["Rust", "Tauri", "Laravel", "Inertia.js", "React", "TypeScript", "MySQL", "Stripe", "Tailwind CSS"],
+  },
 ];
 
 export default function Projects() {
