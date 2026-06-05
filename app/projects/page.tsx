@@ -64,7 +64,7 @@ export default function Projects() {
         <span className="text-4xl mr-2">&#128104;&#8205;&#128187;</span> Projects
       </h2>
       <p className="text-lg md:text-xl leading-relaxed font-light  mb-8">
-        I&apos;m also a part-time entrepreneur, with a few side hussles on the go. All are fully-bootstrapped, self-funded, and profitable!
+        I&apos;m also a part-time entrepreneur, with a few side hustles on the go. All are fully-bootstrapped, self-funded, and profitable!
       </p>
       <div className="flex flex-col space-y-16 my-16">
         {PROJECTS.map((project) => (
