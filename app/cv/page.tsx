@@ -178,9 +178,11 @@ export default function CV() {
                 scalable backend solutions.
               </li>
               <li>
-                Providing mentorship and support to junior developers,
-                contributing to the overall growth and knowledge sharing within
+                Providing mentorship and support to developers,
+                contributing to the overall growth and knowledge sharing within the product's team.
               </li>
+              <li>Leading rollout and upskilling of developers in AI & Agentic developement practices, significantly increasing feature velocity.</li>
+              <li>Implementing guardrails, processes and practices to ensure AI-assisted development is secure, robust and reliable.</li>
               <li>
                 React web application development, including frontend design,
                 implementation, and optimization.
@@ -210,6 +212,7 @@ export default function CV() {
                 bottlenecks, and implementing optimizations for faster and more
                 reliable releases.
               </li>
+              <li>Increasing code coverage through championing and leading rollout of static analysis & code quality tooling across teams.</li>
               <li>
                 Dedication to reducing technical debt through refactoring and
                 implementing best coding practices.
