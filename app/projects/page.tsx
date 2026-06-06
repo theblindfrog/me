@@ -55,6 +55,16 @@ const PROJECTS = [
     tags: ["SaaS", "B2B", "Enterprise", "Desktop"],
     techStack: ["Rust", "Tauri", "Laravel", "Inertia.js", "React", "TypeScript", "MySQL", "Stripe", "Tailwind CSS"],
   },
+  {
+    name: "Practique",
+    description:
+      "Practique is a contemporary display typeface I designed while at university in 2010. It's a bold, headline typeface that's perfect for adding some personality to your designs. The website is a port of the original 2010 site, using Next.js and modern web architecture.",
+    href: "https://practique.vercel.app",
+    hrefText: "practiquefont.com",
+    logo: "/img/projects/practique.png",
+    tags: ["Typeface", "Design"],
+    techStack: ["FontLab", "Illustrator", "Vite", "React", "TypeScript", "Tailwind CSS"],
+  },
 ];
 
 export default function Projects() {
