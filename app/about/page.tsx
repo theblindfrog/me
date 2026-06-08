@@ -32,10 +32,10 @@ export default function About() {
 
   return (
     <article className="mt-8">
-      <h2 className={`${ibmPlexSerif.className} mb-8 text-3xl font-medium tracking-tight text-gray-900 sm:text-4xl`}>
+      <h2 className={`${ibmPlexSerif.className} mb-8 text-3xl font-medium tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl`}>
         <span className="text-4xl mr-2">&#128075;</span> Hi there
       </h2>
-      <div className="prose prose-lg text-gray-700 max-w-none">
+      <div className="prose prose-lg dark:prose-invert text-gray-700 dark:text-gray-300 max-w-none">
         <p>
           I&apos;m Alex, an accomplished, passionate &amp; curious digital
           all-rounder with {yearsExperience} years of professional experience,
@@ -46,7 +46,7 @@ export default function About() {
         <p>
           For the last {tallyDuration}, I&apos;ve been a technical lead at{" "}
           <a
-            className="text-blue-700 hover:underline"
+            className="text-blue-700 dark:text-blue-300 hover:underline"
             href="https://tally.co"
             target="_blank"
             rel="noopener noreferrer"
@@ -56,7 +56,7 @@ export default function About() {
           , working in the customer acquisition solutions space, supporting 7+
           energy retailers in the Australian{" "}
           <a
-            className="text-blue-700 hover:underline"
+            className="text-blue-700 dark:text-blue-300 hover:underline"
             href="https://aemo.com.au/en/energy-systems/electricity/national-electricity-market-nem"
             target="_blank"
             rel="noopener noreferrer"
@@ -71,7 +71,7 @@ export default function About() {
         <p>
           Previously I was the digital manager at{" "}
           <a
-            className="text-blue-700 hover:underline"
+            className="text-blue-700 dark:text-blue-300 hover:underline"
             href="https://web.archive.org/web/20201112024044/http://www.clickenergy.com.au/"
             target="_blank"
             rel="noopener noreferrer"
@@ -80,7 +80,7 @@ export default function About() {
           </a>{" "}
           and{" "}
           <a
-            className="text-blue-700 hover:underline"
+            className="text-blue-700 dark:text-blue-300 hover:underline"
             href="https://web.archive.org/web/20200628023001/https://www.onthemove.com.au/"
             target="_blank"
             rel="noopener noreferrer"
@@ -91,7 +91,7 @@ export default function About() {
           connection business with 800+ real estate agencies, moving over 70,000
           customers annually - both of which were acquired by{" "}
           <a
-            className="text-blue-700 hover:underline"
+            className="text-blue-700 dark:text-blue-300 hover:underline"
             href="https://www.agl.com.au/about-agl/media-centre/asx-and-media-releases/2020/august/agl-enters-binding-agreement-to-acquire-click-energy-group"
             target="_blank"
             rel="noopener noreferrer"
@@ -121,7 +121,7 @@ export default function About() {
             alt="Photo of me 'DIY-ing'"
             width={800}
             height={600}
-            className="w-full rounded-3xl shadow-lg ring-2 ring-white"
+            className="w-full rounded-3xl shadow-lg ring-2 ring-white dark:ring-gray-700"
           />
         </p>
       </div>

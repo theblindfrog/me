@@ -293,6 +293,12 @@ export function DitheringShader({
   const startTimeRef = useRef<number>(Date.now())
   // Track actual render dimensions so the animation loop stays in sync
   const dimsRef = useRef<{ width: number; height: number }>({ width: 1, height: 1 })
+  // Keep latest colors in refs so the (mount-once) render loop picks up prop
+  // changes — e.g. switching light/dark theme — without re-initialising WebGL.
+  const colorBackRef = useRef(colorBack)
+  const colorFrontRef = useRef(colorFront)
+  useEffect(() => { colorBackRef.current = colorBack }, [colorBack])
+  useEffect(() => { colorFrontRef.current = colorFront }, [colorFront])
 
   // Initialise WebGL once
   useEffect(() => {
@@ -337,8 +343,8 @@ export function DitheringShader({
       gl.useProgram(program)
       if (locs.u_time)       gl.uniform1f(locs.u_time, t)
       if (locs.u_resolution) gl.uniform2f(locs.u_resolution, width, height)
-      if (locs.u_colorBack)  gl.uniform4fv(locs.u_colorBack, hexToRgba(colorBack))
-      if (locs.u_colorFront) gl.uniform4fv(locs.u_colorFront, hexToRgba(colorFront))
+      if (locs.u_colorBack)  gl.uniform4fv(locs.u_colorBack, hexToRgba(colorBackRef.current))
+      if (locs.u_colorFront) gl.uniform4fv(locs.u_colorFront, hexToRgba(colorFrontRef.current))
       if (locs.u_shape)      gl.uniform1f(locs.u_shape, DitheringShapes[shape])
       if (locs.u_type)       gl.uniform1f(locs.u_type, DitheringTypes[type])
       if (locs.u_pxSize)     gl.uniform1f(locs.u_pxSize, pxSize)

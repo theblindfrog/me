@@ -1,6 +1,7 @@
 import Link from "next/link";
 import Image from "next/image";
 import { IBM_Plex_Serif } from "next/font/google";
+import ThemeToggle from "@/components/ThemeToggle";
 const ibmPlexSerif = IBM_Plex_Serif({
   subsets: ["latin"],
   weight: ["400", "500",],
@@ -17,20 +18,20 @@ export default function Header() {
             alt="Photo of Alexander Powell"
             width={64}
             height={64}
-            className="w-16 h-16 md:w-20 md:h-20 rounded-full  ring-2 ring-white shadow mb-4 md:mb-0 md:mr-6 hover:ring-primary-500/20 transition-all duration-300"
+            className="w-16 h-16 md:w-20 md:h-20 rounded-full  ring-2 ring-white dark:ring-gray-700 shadow mb-4 md:mb-0 md:mr-6 hover:ring-primary-500/20 transition-all duration-300"
           />
         </Link>
         <div>
-          <h1 className={`${ibmPlexSerif.className} text-2xl md:text-3xl font-medium tracking-tight text-gray-900 mb-0`}>
+          <h1 className={`${ibmPlexSerif.className} text-2xl md:text-3xl font-medium tracking-tight text-gray-900 dark:text-gray-100 mb-0`}>
             <Link className="hover:text-primary-600 transition-colors" href="/">
               Alexander Powell
             </Link>
           </h1>
-          <p className="text-base text-blue-700/80 -mt-1">Product Engineer</p>
+          <p className="text-base text-blue-700/80 dark:text-blue-300/80 -mt-1">Product Engineer</p>
         </div>
       </div>
-      <nav className="text-md font-medium text-gray-700">
-        <ul className="flex space-x-6">
+      <nav className="text-md font-medium text-gray-700 dark:text-gray-300">
+        <ul className="flex items-center space-x-6">
           <li>
             <Link
               className="hover:text-primary-600 transition-colors border-b-2 border-transparent hover:border-primary-500 pb-1"
@@ -54,6 +55,9 @@ export default function Header() {
             >
               CV
             </Link>
+          </li>
+          <li className="flex items-center">
+            <ThemeToggle />
           </li>
         </ul>
       </nav>

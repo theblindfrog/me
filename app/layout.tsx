@@ -4,7 +4,8 @@ import Script from "next/script";
 import "./globals.css";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
-import { DitheringShader } from "@/components/ui/dithering-shader";
+import ThemedBackground from "@/components/ThemedBackground";
+import { ThemeProvider } from "@/components/ThemeProvider";
 import { SpeedInsights } from "@vercel/speed-insights/next"
 import { Analytics } from "@vercel/analytics/next"
 
@@ -54,38 +55,30 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
+    <html lang="en" suppressHydrationWarning>
       <body
-        className={`${ibmPlexSans.className} antialiased text-gray-900 leading-relaxed border-t-4 border-primary-500 relative`}
-        suppressHydrationWarning
+        className={`${ibmPlexSans.className} antialiased bg-white text-gray-900 dark:bg-gray-900 dark:text-gray-100 leading-relaxed border-t-4 border-primary-500 relative`}
       >
-        <div className="absolute bottom-0 inset-x-0 -z-10 h-[60vh] bg-red-500">
-          <DitheringShader
-            shape="wave"
-            type="8x8"
-            colorBack="#FFFFFF"
-            colorFront="#3182ce"
-            pxSize={4}
-            speed={0.3}
-          />
-        </div>
-        <div className="max-w-5xl mx-auto px-6 py-12 md:py-20 flex flex-col min-h-screen">
-          <header className="mb-12 md:mb-20">
-            <Header />
-          </header>
+        <ThemeProvider>
+          <ThemedBackground />
+          <div className="max-w-5xl mx-auto px-6 py-12 md:py-20 flex flex-col min-h-screen">
+            <header className="mb-12 md:mb-20">
+              <Header />
+            </header>
 
-          <main className="flex-grow relative">
-            
-            <div className="relative z-10 md:px-24 md:mx-2">{children}</div>
-            <Analytics />
-            <SpeedInsights />
-            <div className="absolute w-full h-full top-0 z-1 left-0 bg-white blur-2xl"></div>
-            </main>
+            <main className="flex-grow relative">
 
-          <div className="flex flex-col justify-end h-[400px]">
-            <Footer />
+              <div className="relative z-10 md:px-24 md:mx-2">{children}</div>
+              <Analytics />
+              <SpeedInsights />
+              <div className="absolute w-full h-full top-0 z-1 left-0 bg-white dark:bg-gray-900 blur-2xl"></div>
+              </main>
+
+            <div className="flex flex-col justify-end h-[400px]">
+              <Footer />
+            </div>
           </div>
-        </div>
+        </ThemeProvider>
 
         <Script
           src="https://www.googletagmanager.com/gtag/js?id=UA-141183275-1"
