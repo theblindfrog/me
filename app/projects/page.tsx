@@ -70,7 +70,7 @@ const PROJECTS = [
 export default function Projects() {
   return (
     <article className="mt-8">
-      <h2 className={`${ibmPlexSerif.className} mb-2 text-3xl font-medium tracking-tight text-gray-900 md:text-4xl`}>
+      <h2 className={`${ibmPlexSerif.className} mb-2 text-3xl font-medium tracking-tight text-gray-900 dark:text-gray-100 md:text-4xl`}>
         <span className="text-4xl mr-2">&#128104;&#8205;&#128187;</span> Projects
       </h2>
       <p className="text-lg md:text-xl leading-relaxed font-light  mb-8">
@@ -99,7 +99,7 @@ export default function Projects() {
                 {project.tags.map((tag) => (
                   <span
                     key={tag}
-                    className="px-2 py-1 text-xs font-medium text-blue-700 bg-blue-100 rounded-full"
+                    className="px-2 py-1 text-xs font-medium text-blue-700 dark:text-blue-200 bg-blue-100 dark:bg-blue-900/40 rounded-full"
                   >
                     {tag}
                   </span>
@@ -109,14 +109,14 @@ export default function Projects() {
 
             </div>
 
-            <p className="text-gray-700 leading-relaxed">
+            <p className="text-gray-700 dark:text-gray-300 leading-relaxed">
               {project.description}
             </p>
             <div className="flex flex-wrap items-baseline gap-2">
               {project.techStack.map((tech) => (
                 <span
                   key={tech}
-                  className="px-2 py-1 text-xs font-medium text-gray-700 bg-gray-100 rounded-full"
+                  className="px-2 py-1 text-xs font-medium text-gray-700 dark:text-gray-300 bg-gray-100 dark:bg-gray-800 rounded-full"
                 >
                   {tech}
                 </span>
@@ -125,7 +125,7 @@ export default function Projects() {
 
 
             <p className=" leading-relaxed">
-              <a href={project.href} target="_blank" className="text-blue-600 hover:text-blue-800 hover:underline inline-flex items-center">
+              <a href={project.href} target="_blank" className="text-blue-600 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-300 hover:underline inline-flex items-center">
                 {project.hrefText} <OpenIcon />
               </a>
             </p>

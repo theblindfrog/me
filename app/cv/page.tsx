@@ -143,7 +143,7 @@ export default function CV() {
   return (
     <>
       <section className="mt-8 mb-16">
-        <h2 className={`${ibmPlexSerif.className} mb-8 text-3xl font-medium tracking-tight text-gray-900 sm:text-4xl`}>
+        <h2 className={`${ibmPlexSerif.className} mb-8 text-3xl font-medium tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl`}>
           Experience
         </h2>
 
@@ -151,14 +151,14 @@ export default function CV() {
           {/* Tally Group */}
           <li className="mb-12 md:mb-24">
             <h3 className="flex items-baseline justify-between mb-6 leading-none">
-              <span className="text-2xl font-bold tracking-tight text-gray-900">
+              <span className="text-2xl font-bold tracking-tight text-gray-900 dark:text-gray-100">
                 Tally Group
               </span>
-              <small className="text-sm text-right text-gray-600 uppercase tracking-copperplate">
+              <small className="text-sm text-right text-gray-600 dark:text-gray-400 uppercase tracking-copperplate">
                 2021 &mdash; Present
               </small>
             </h3>
-            <h4 className="mb-4 tracking-wide text-lg text-gray-700 uppercase font-700">
+            <h4 className="mb-4 tracking-wide text-lg text-gray-700 dark:text-gray-300 uppercase font-700">
               Technical Lead
             </h4>
             <p className="mb-6">
@@ -168,7 +168,7 @@ export default function CV() {
               retailers and their partners, sales agents, and end-consumers.
             </p>
 
-            <h4 className="mb-4 tracking-wide text-gray-700 uppercase font-700">
+            <h4 className="mb-4 tracking-wide text-gray-700 dark:text-gray-300 uppercase font-700">
               <BriefcaseIcon />
               Key Responsibilities
             </h4>
@@ -179,7 +179,7 @@ export default function CV() {
               </li>
               <li>
                 Providing mentorship and support to developers,
-                contributing to the overall growth and knowledge sharing within the product's team.
+                contributing to the overall growth and knowledge sharing within the product&apos;s team.
               </li>
               <li>Leading rollout and upskilling of developers in AI & Agentic developement practices, significantly increasing feature velocity.</li>
               <li>Implementing guardrails, processes and practices to ensure AI-assisted development is secure, robust and reliable.</li>
@@ -240,14 +240,14 @@ export default function CV() {
               </li>
             </ul>
 
-            <h4 className="mb-4 tracking-wide text-gray-700 uppercase font-700">
+            <h4 className="mb-4 tracking-wide text-gray-700 dark:text-gray-300 uppercase font-700">
               <CheckmarkCircleIcon />
               Key Accomplishments
             </h4>
             <ol className="mb-8">
               <li className="mb-6">
                 <h3 className="flex items-baseline justify-between mb-2">
-                  <span className="text-lg text-gray-800 font-500">
+                  <span className="text-lg text-gray-800 dark:text-gray-200 font-500">
                     <a
                       className="hover:text-primary-500"
                       href="https://www.tally.co/acquire/features"
@@ -258,7 +258,7 @@ export default function CV() {
                       <OpenIcon />
                     </a>
                   </span>
-                  <small className="text-sm text-right text-gray-600 uppercase tracking-copperplate">
+                  <small className="text-sm text-right text-gray-600 dark:text-gray-400 uppercase tracking-copperplate">
                     2021
                   </small>
                 </h3>
@@ -272,10 +272,10 @@ export default function CV() {
               </li>
               <li className="mb-6">
                 <h3 className="flex items-baseline justify-between mb-2">
-                  <span className="text-lg text-gray-800 font-500">
+                  <span className="text-lg text-gray-800 dark:text-gray-200 font-500">
                     Global Quality &amp; Static Analysis Platform
                   </span>
-                  <small className="text-sm text-right text-gray-600 uppercase tracking-copperplate">
+                  <small className="text-sm text-right text-gray-600 dark:text-gray-400 uppercase tracking-copperplate">
                     2023
                   </small>
                 </h3>
@@ -288,14 +288,14 @@ export default function CV() {
               </li>
             </ol>
 
-            <h4 className="mt-8 mb-4 tracking-wide text-gray-700 uppercase font-700">
+            <h4 className="mt-8 mb-4 tracking-wide text-gray-700 dark:text-gray-300 uppercase font-700">
               <RibbonIcon />
               Awards
             </h4>
             <dl className="mb-8">
               <dt className="flex items-baseline justify-between mb-2 text-lg">
                 <span>Values Award &ndash; Ownership &amp; Collaboration</span>
-                <small className="text-sm text-right text-gray-600 uppercase tracking-copperplate">
+                <small className="text-sm text-right text-gray-600 dark:text-gray-400 uppercase tracking-copperplate">
                   Q1&mdash;2022
                 </small>
               </dt>
@@ -305,15 +305,15 @@ export default function CV() {
           {/* Click Energy & On The Move */}
           <li className="mb-12 md:mb-24">
             <h3 className="flex items-baseline justify-between mb-6 leading-none">
-              <span className="text-2xl font-bold tracking-tight text-gray-900">
+              <span className="text-2xl font-bold tracking-tight text-gray-900 dark:text-gray-100">
                 Click Energy &amp; On The Move
               </span>
-              <small className="text-sm text-right text-gray-600 uppercase tracking-copperplate">
+              <small className="text-sm text-right text-gray-600 dark:text-gray-400 uppercase tracking-copperplate">
                 2013 &mdash; 2021
               </small>
             </h3>
 
-            <h4 className="mb-4 tracking-wide text-lg text-gray-700 uppercase font-700">
+            <h4 className="mb-4 tracking-wide text-lg text-gray-700 dark:text-gray-300 uppercase font-700">
               Digital Manager
             </h4>
             <p className="mb-6">
@@ -325,7 +325,7 @@ export default function CV() {
               application form product.
             </p>
 
-            <h4 className="mb-4 tracking-wide text-gray-700 uppercase font-700">
+            <h4 className="mb-4 tracking-wide text-gray-700 dark:text-gray-300 uppercase font-700">
               <BriefcaseIcon />
               Key Responsibilities
             </h4>
@@ -355,14 +355,14 @@ export default function CV() {
               <li>Serverless PDF generation &amp; design</li>
             </ul>
 
-            <h4 className="mb-4 tracking-wide text-gray-700 uppercase font-700">
+            <h4 className="mb-4 tracking-wide text-gray-700 dark:text-gray-300 uppercase font-700">
               <CheckmarkCircleIcon />
               Key Accomplishments
             </h4>
             <ol className="mb-8">
               <li className="mb-6">
                 <h3 className="flex items-baseline justify-between mb-2">
-                  <span className="text-lg text-gray-800 font-500">
+                  <span className="text-lg text-gray-800 dark:text-gray-200 font-500">
                     <a
                       className="hover:text-primary-500"
                       href="https://www.onthemove.com.au/unilodge"
@@ -373,7 +373,7 @@ export default function CV() {
                       <OpenIcon />
                     </a>
                   </span>
-                  <small className="text-sm text-right text-gray-600 uppercase tracking-copperplate">
+                  <small className="text-sm text-right text-gray-600 dark:text-gray-400 uppercase tracking-copperplate">
                     2020
                   </small>
                 </h3>
@@ -386,7 +386,7 @@ export default function CV() {
               </li>
               <li className="mb-6">
                 <h3 className="flex items-baseline justify-between mb-2">
-                  <span className="text-lg text-gray-800 font-500">
+                  <span className="text-lg text-gray-800 dark:text-gray-200 font-500">
                     <a
                       className="hover:text-primary-500"
                       href="https://rebels.clickenergy.com.au"
@@ -397,7 +397,7 @@ export default function CV() {
                       <OpenIcon />
                     </a>
                   </span>
-                  <small className="text-sm text-right text-gray-600 uppercase tracking-copperplate">
+                  <small className="text-sm text-right text-gray-600 dark:text-gray-400 uppercase tracking-copperplate">
                     2019
                   </small>
                 </h3>
@@ -409,7 +409,7 @@ export default function CV() {
               </li>
               <li className="mb-6">
                 <h3 className="flex items-baseline justify-between mb-2">
-                  <span className="text-lg text-gray-800 font-500">
+                  <span className="text-lg text-gray-800 dark:text-gray-200 font-500">
                     <a
                       className="hover:text-primary-500"
                       href="https://rewards.onthemove.com.au"
@@ -420,7 +420,7 @@ export default function CV() {
                       <OpenIcon />
                     </a>
                   </span>
-                  <small className="text-sm text-right text-gray-600 uppercase tracking-copperplate">
+                  <small className="text-sm text-right text-gray-600 dark:text-gray-400 uppercase tracking-copperplate">
                     2018
                   </small>
                 </h3>
@@ -441,7 +441,7 @@ export default function CV() {
               </li>
               <li className="mb-6">
                 <h3 className="flex items-baseline justify-between mb-2">
-                  <span className="text-lg text-gray-800 font-500">
+                  <span className="text-lg text-gray-800 dark:text-gray-200 font-500">
                     <a
                       className="hover:text-primary-500"
                       href="https://www.amaysim.com.au/energy"
@@ -452,7 +452,7 @@ export default function CV() {
                       <OpenIcon />
                     </a>
                   </span>
-                  <small className="text-sm text-right text-gray-600 uppercase tracking-copperplate">
+                  <small className="text-sm text-right text-gray-600 dark:text-gray-400 uppercase tracking-copperplate">
                     2017
                   </small>
                 </h3>
@@ -468,7 +468,7 @@ export default function CV() {
               </li>
               <li className="mb-6">
                 <h3 className="flex items-baseline justify-between mb-2">
-                  <span className="text-lg text-gray-800 font-500">
+                  <span className="text-lg text-gray-800 dark:text-gray-200 font-500">
                     <a
                       className="hover:text-primary-500"
                       href="https://www.clickenergy.com.au"
@@ -479,7 +479,7 @@ export default function CV() {
                       <OpenIcon />
                     </a>
                   </span>
-                  <small className="text-sm text-right text-gray-600 uppercase tracking-copperplate">
+                  <small className="text-sm text-right text-gray-600 dark:text-gray-400 uppercase tracking-copperplate">
                     2015
                   </small>
                 </h3>
@@ -492,7 +492,7 @@ export default function CV() {
               </li>
               <li className="mb-6">
                 <h3 className="flex items-baseline justify-between mb-2">
-                  <span className="text-lg text-gray-800 font-500">
+                  <span className="text-lg text-gray-800 dark:text-gray-200 font-500">
                     <a
                       className="hover:text-primary-500"
                       href="https://www.clickenergy.com.au/quick-quote-calculator"
@@ -503,7 +503,7 @@ export default function CV() {
                       <OpenIcon />
                     </a>
                   </span>
-                  <small className="text-sm text-right text-gray-600 uppercase tracking-copperplate">
+                  <small className="text-sm text-right text-gray-600 dark:text-gray-400 uppercase tracking-copperplate">
                     2014
                   </small>
                 </h3>
@@ -515,18 +515,18 @@ export default function CV() {
               </li>
             </ol>
 
-            <h4 className="mt-8 mb-4 tracking-wide text-gray-700 uppercase font-700">
+            <h4 className="mt-8 mb-4 tracking-wide text-gray-700 dark:text-gray-300 uppercase font-700">
               <RibbonIcon />
               Awards
             </h4>
             <dl className="mb-8">
               <dt className="flex items-baseline justify-between mb-2 text-lg">
                 <span>Quarterly Values Award &ndash; Reliability</span>
-                <small className="text-sm text-right text-gray-600 uppercase tracking-copperplate">
+                <small className="text-sm text-right text-gray-600 dark:text-gray-400 uppercase tracking-copperplate">
                   Q2&mdash;2020
                 </small>
               </dt>
-              <dd className="mb-4 italic text-gray-700 lg:w-3/4">
+              <dd className="mb-4 italic text-gray-700 dark:text-gray-300 lg:w-3/4">
                 Quarterly winners are nominated by peers, who represent
                 reliability. We build reliable products full of fail safes and
                 back-ups. Reliability is also about being committed to the
@@ -535,11 +535,11 @@ export default function CV() {
 
               <dt className="flex items-baseline justify-between mb-2 text-lg">
                 <span>Quarterly Values Award &ndash; Agility</span>
-                <small className="text-sm text-right text-gray-600 uppercase tracking-copperplate">
+                <small className="text-sm text-right text-gray-600 dark:text-gray-400 uppercase tracking-copperplate">
                   Q1&mdash;2020
                 </small>
               </dt>
-              <dd className="mb-4 italic text-gray-700 lg:w-3/4">
+              <dd className="mb-4 italic text-gray-700 dark:text-gray-300 lg:w-3/4">
                 Quarterly winners are nominated by peers, who represent agility.
                 Agility is about reacting quickly, applying mental flexibility
                 when a problem needs to be solved and always holding on to the
@@ -548,33 +548,33 @@ export default function CV() {
 
               <dt className="flex items-baseline justify-between mb-2 text-lg">
                 <span>Outside the Box Thinker Award</span>
-                <small className="text-sm text-right text-gray-600 uppercase tracking-copperplate">
+                <small className="text-sm text-right text-gray-600 dark:text-gray-400 uppercase tracking-copperplate">
                   2018
                 </small>
               </dt>
-              <dd className="mb-4 italic text-gray-700 lg:w-3/4">
+              <dd className="mb-4 italic text-gray-700 dark:text-gray-300 lg:w-3/4">
                 Awarded to an individual who finds creative and divergent ways of
                 solving problems across the business.
               </dd>
 
               <dt className="flex items-baseline justify-between mb-2 text-lg">
                 <span>Above and Beyond Award</span>
-                <small className="text-sm text-right text-gray-600 uppercase tracking-copperplate">
+                <small className="text-sm text-right text-gray-600 dark:text-gray-400 uppercase tracking-copperplate">
                   2017
                 </small>
               </dt>
-              <dd className="mb-4 italic text-gray-700 lg:w-3/4">
+              <dd className="mb-4 italic text-gray-700 dark:text-gray-300 lg:w-3/4">
                 Awarded to someone who goes beyond of what&apos;s required of them
                 and delivers exceptional value to the business.
               </dd>
 
               <dt className="flex items-baseline justify-between mb-2 text-lg">
                 <span>Manager Directors&apos; Award</span>
-                <small className="text-sm text-right text-gray-600 uppercase tracking-copperplate">
+                <small className="text-sm text-right text-gray-600 dark:text-gray-400 uppercase tracking-copperplate">
                   2016
                 </small>
               </dt>
-              <dd className="mb-4 italic text-gray-700 lg:w-3/4">
+              <dd className="mb-4 italic text-gray-700 dark:text-gray-300 lg:w-3/4">
                 The &quot;MVP&quot; of the year, awarded at the discretion of the
                 Managing Director{" "}
                 <small>(or CEO in other years)</small> to the individual who has
@@ -586,15 +586,15 @@ export default function CV() {
           {/* Natvia */}
           <li className="mb-12 md:mb-24">
             <h3 className="flex items-baseline justify-between mb-6 leading-none">
-              <span className="text-2xl font-bold tracking-tight text-gray-900">
+              <span className="text-2xl font-bold tracking-tight text-gray-900 dark:text-gray-100">
                 Natvia
               </span>
-              <small className="text-sm text-right text-gray-600 uppercase tracking-copperplate">
+              <small className="text-sm text-right text-gray-600 dark:text-gray-400 uppercase tracking-copperplate">
                 2012 &mdash; 2013
               </small>
             </h3>
 
-            <h4 className="mb-4 tracking-wide text-gray-700 uppercase font-700">
+            <h4 className="mb-4 tracking-wide text-gray-700 dark:text-gray-300 uppercase font-700">
               <BriefcaseIcon />
               Key Responsibilities
             </h4>
@@ -610,15 +610,15 @@ export default function CV() {
               <li>Social Media (competitions, management)</li>
             </ul>
 
-            <h4 className="mb-4 tracking-wide text-gray-700 uppercase font-700">
+            <h4 className="mb-4 tracking-wide text-gray-700 dark:text-gray-300 uppercase font-700">
               <CheckmarkCircleIcon />
               Key Accomplishments
             </h4>
             <ol className="mb-8">
               <li className="mb-6">
                 <h3 className="flex items-baseline justify-between mb-2">
-                  <span className="text-lg text-gray-800 font-500">Natvia</span>
-                  <small className="text-sm text-right text-gray-600 uppercase tracking-copperplate">
+                  <span className="text-lg text-gray-800 dark:text-gray-200 font-500">Natvia</span>
+                  <small className="text-sm text-right text-gray-600 dark:text-gray-400 uppercase tracking-copperplate">
                     2012
                   </small>
                 </h3>
@@ -630,10 +630,10 @@ export default function CV() {
               </li>
               <li className="mb-6">
                 <h3 className="flex items-baseline justify-between mb-2">
-                  <span className="text-lg text-gray-800 font-500">
+                  <span className="text-lg text-gray-800 dark:text-gray-200 font-500">
                     Sweeter Life Club
                   </span>
-                  <small className="text-sm text-right text-gray-600 uppercase tracking-copperplate">
+                  <small className="text-sm text-right text-gray-600 dark:text-gray-400 uppercase tracking-copperplate">
                     2012
                   </small>
                 </h3>

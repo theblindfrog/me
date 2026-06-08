@@ -2,6 +2,7 @@ import type { Config } from "tailwindcss";
 import cornerShapePlugin from 'tailwindcss-corner-shape'
 
 const config: Config = {
+  darkMode: "class",
   content: [
     "./app/**/*.{ts,tsx}",
     "./components/**/*.{ts,tsx}",

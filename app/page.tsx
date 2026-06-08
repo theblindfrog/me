@@ -28,7 +28,7 @@ export default function Home() {
   const yearsExperience = new Date().getFullYear() - 2011;
 
   return (
-    <article className="mt-8 prose prose-lg text-gray-700 max-w-none">
+    <article className="mt-8 prose prose-lg dark:prose-invert text-gray-700 dark:text-gray-300 max-w-none">
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
@@ -37,7 +37,7 @@ export default function Home() {
         An accomplished, passionate &amp; curious digital all-rounder with{" "} {yearsExperience} years of professional experience, capable of working across the full end-to-end breadth of a product; from an idea or business case, design &amp; analysis - through to development, testing, devops, and deployment.
       </p>
       <p className="text-xl sm:text-2xl leading-relaxed font-light text-balance mt-6">
-        These days my focus is product engineering, supercharged with AI and agentic coding, shipping real products faster by pairing deep full-stack experience with frontier models. I put that into practice on my own bootstrapped side businesses <a className="text-blue-700 hover:underline" href="/projects">Pay By QR</a>, <a className="text-blue-700 hover:underline" href="/projects">Recipe Margin</a>, and <a className="text-blue-700 hover:underline" href="/projects">SuiteClock</a> - all solo ventures that I&apos;ve built and run entirely by myself.
+        These days my focus is product engineering, supercharged with AI and agentic coding, shipping real products faster by pairing deep full-stack experience with frontier models. I put that into practice on my own bootstrapped side businesses <a className="text-blue-700 dark:text-blue-300 hover:underline" href="/projects">Pay By QR</a>, <a className="text-blue-700 dark:text-blue-300 hover:underline" href="/projects">Recipe Margin</a>, and <a className="text-blue-700 dark:text-blue-300 hover:underline" href="/projects">SuiteClock</a> - all solo ventures that I&apos;ve built and run entirely by myself.
       </p>
     </article>
   );
